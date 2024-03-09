@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif)]
+
 <h1 align="center">Hi 👋, I'm Ruweyda Ali</h1>
 <h3 align="center">A passionate full stack developer from somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvAmJXVZciAtFoHaZLWdwOHCvMSbFcciSLA&usqp=CAU"
