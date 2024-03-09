@@ -11,13 +11,9 @@
 
 - 🌱 I’m currently learning **neact js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruwaruwa](https://github.com/ruwaruwa)
+  
 
 - 💬 Ask me about **mern stack**
-
-- 📫 How to reach me **aruweyda45@gmail.com**
-
-- 📄 Know about my experiences [https://ruwa-personal-portafolio.vercel.app/](https://ruwa-personal-portafolio.vercel.app/)
 
 - ⚡ Fun fact **I'am fanny**
 
